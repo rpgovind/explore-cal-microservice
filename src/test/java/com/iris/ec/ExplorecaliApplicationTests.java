@@ -1,4 +1,4 @@
-package com.iris.ec.demo;
+package com.iris.ec;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
